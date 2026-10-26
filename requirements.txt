@@ -1,3 +1,0 @@
-openai-agents
-openai
-gradio==6.30.0
